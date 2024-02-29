@@ -21,6 +21,8 @@ package org.springframework.jms;
  *
  * @author Mark Pollack
  * @since 1.1
+
+ 
  * @see jakarta.jms.IllegalStateException
  */
 @SuppressWarnings("serial")
